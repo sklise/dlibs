@@ -2,7 +2,7 @@
   "name": "dlibs",
   "version": "0.0.0",
   "description": "fill yr public folder with libraries",
-  "bin": { "getlibs" : "./index.js"},
+  "bin": { "dlibs" : "./index.js"},
   "repository": "",
   "author": "steve klise",
   "license": "mit",
