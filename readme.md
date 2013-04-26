@@ -4,7 +4,7 @@ NPM is great, but it doesn't help build a folder of frequently used client side 
 
 ## Install
 
-npm install git+https://github.com/stevenklise/dlibs.git
+    npm install git+https://github.com/stevenklise/dlibs.git
 
 ## Usage
 

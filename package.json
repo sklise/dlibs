@@ -1,7 +1,7 @@
 {
-  "name": "libloader",
+  "name": "dlibs",
   "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "description": "fill yr public folder with libraries",
   "bin": { "getlibs" : "./index.js"},
   "repository": "",
   "author": "steve klise",
